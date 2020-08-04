@@ -28,23 +28,23 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
+   facebook: isuryakant
+   hackerrank: iamsuryakant
+   instagram: iamsuryakant_
   # keybase: your_username
-  # linkedin: your_username
+   linkedin: iamsuryakant
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
+   stackoverflow: suryakant-thakur
+   telegram: iamsuryakant
+   twitter: iamsuryakant_
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+   website: http://suryakantthakur.me
+   youtube: UC676Th6xvBs6XCyDGo_tYEg
 
 topics:
   - name: CSS
